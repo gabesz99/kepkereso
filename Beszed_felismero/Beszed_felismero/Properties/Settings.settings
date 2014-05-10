@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Beszed_felismero.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="chrome_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:/Program Files/Google/Chrome/Application/chrome.exe"</Value>
+    </Setting>
+    <Setting Name="notepad_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:/Windows/notepad.exe"</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

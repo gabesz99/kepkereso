@@ -1,0 +1,14 @@
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\bin\Debug\Beszed_felismero.exe.config
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\bin\Debug\Beszed_felismero.exe
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\bin\Debug\Beszed_felismero.pdb
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\obj\Debug\Beszed_felismero.csprojResolveAssemblyReference.cache
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\obj\Debug\Beszed_felismero.Form1.resources
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\obj\Debug\Beszed_felismero.Properties.Resources.resources
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\obj\Debug\Beszed_felismero.csproj.GenerateResource.Cache
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\obj\Debug\Beszed_felismero.exe
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\obj\Debug\Beszed_felismero.pdb
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\bin\Debug\Interop.WMPLib.dll
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\bin\Debug\AxInterop.WMPLib.dll
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\obj\Debug\Interop.WMPLib.dll
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\obj\Debug\AxInterop.WMPLib.dll
+D:\Szöv\Programok\Beszed_felismero\Beszed_felismero\obj\Debug\Beszed_felismero.csproj.ResolveComReference.cache

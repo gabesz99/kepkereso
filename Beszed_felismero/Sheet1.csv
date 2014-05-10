@@ -1,0 +1,25 @@
+sarah,null,null
+stop,null,null
+minimize,null,null
+show window,null,null
+open chrome,chromeParancsok,open
+exit,rendszerParancsok,exit
+OK,rendszerParancsok,OK
+tabulator,rendszerParancsok,tab
+exit from windows,rendszerParancsok,exWin
+close window,rendszerParancsok,close
+other window,rendszerParancsok,altTab
+close chrome,chromeParancsok,close
+open notepad,rendszerParancsok,notepad
+open facebook,weblapNyitas,https://www.facebook.com/
+open google,weblapNyitas,https://www.google.hu/
+other tab,chromeParancsok,other tab
+close tab,chromeParancsok,close tab
+right,rendszerParancsok,right
+left,rendszerParancsok,left
+music listening,melyikzenet,null
+classic,zenek,classic
+rock,zenek,rock
+music stop,zeneAllj,null
+music go,zeneIndit,null
+next music,kovZene,null
