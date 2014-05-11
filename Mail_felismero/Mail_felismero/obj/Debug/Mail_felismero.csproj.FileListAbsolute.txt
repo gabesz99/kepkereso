@@ -1,0 +1,11 @@
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\bin\Debug\Mail_felismero.exe.config
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\obj\Debug\Mail_felismero.csprojResolveAssemblyReference.cache
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\obj\Debug\Mail_felismero.Form1.resources
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\obj\Debug\Mail_felismero.Properties.Resources.resources
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\obj\Debug\Mail_felismero.csproj.GenerateResource.Cache
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\bin\Debug\Mail_felismero.exe
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\bin\Debug\Mail_felismero.pdb
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\bin\Debug\Mail.dll
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\bin\Debug\Mail.xml
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\obj\Debug\Mail_felismero.exe
+D:\Szöv\Programok\Mail_felismero\Mail_felismero\obj\Debug\Mail_felismero.pdb
