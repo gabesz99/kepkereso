@@ -1,0 +1,9 @@
+D:\Szöv\Programok\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Szöv\Programok\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\Szöv\Programok\Chat\Chat\obj\Debug\Chat.Form1.resources
+D:\Szöv\Programok\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\Szöv\Programok\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+D:\Szöv\Programok\Chat\Chat\bin\Debug\Chat.exe
+D:\Szöv\Programok\Chat\Chat\bin\Debug\Chat.pdb
+D:\Szöv\Programok\Chat\Chat\obj\Debug\Chat.exe
+D:\Szöv\Programok\Chat\Chat\obj\Debug\Chat.pdb
